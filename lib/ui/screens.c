@@ -25,7 +25,7 @@ void create_screen_main() {
             lv_obj_t *obj = lv_label_create(parent_obj);
             lv_obj_set_pos(obj, 11, 0);
             lv_obj_set_size(obj, LV_SIZE_CONTENT, LV_SIZE_CONTENT);
-            lv_label_set_text(obj, "B6617769 Chaiyapat P.");
+            lv_label_set_text(obj, "B6608361 Thawatchai");
         }
         {
             // onled_bt
